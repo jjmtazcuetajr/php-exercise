@@ -6,5 +6,5 @@ Easiest way to run this project is to:
 4. Select `httpd.conf`
 5. Scroll down to `DocumentRoot "C:/xampp/<path_to_project_directory>"` and edit the path to where you placed this project
 6. Do the same for `<Directory "C:/xampp/<path_to_project_directory>">` then save changes
-7. Click the start button for the Apache module
+7. Click the Start button for the Apache module
 8. Go to your browser then type `localhost/index.php` in the address bar
